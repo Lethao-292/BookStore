@@ -1,0 +1,23 @@
+body {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 13px;
+}
+
+.btn-group {
+    float: right;
+    border: none;
+    min-width: 50px;
+    outline: none !important;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.btn-group .btn {
+    border-radius: 0px;
+}
+
+.btn i {
+    text-align: center;
+    font-size: 15px;
+    padding: 10px 5px;
+}
